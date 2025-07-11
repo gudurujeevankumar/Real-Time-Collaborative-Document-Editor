@@ -9,6 +9,8 @@ This is Task 3 of my internship at CODTECH IT SOLUTIONS PVT. LTD, focused on bui
 - Internship Domain: Full Stack Web Development  
 - Task Number: 3 – Real-Time Collaborative Document Editor  
 
+## Live Project Link : https://jeevandocumenteditor.netlify.app/
+
 ## 📄 Project Description
 
 A real-time collaborative document editor built using React, Vite, Supabase, and Tailwind CSS, supporting multi-user document editing, sharing, and activity logs.
@@ -57,6 +59,7 @@ supabase/
 ├── config.toml → Supabase config  
 └── migrations/ → DB setup scripts  
 ```
+
 ## 📸 Preview
 
 <img width="1439" height="864" alt="document editor ouput 1" src="https://github.com/user-attachments/assets/5091c300-11f8-4e72-8c3a-f09e39fbbb4f" />
